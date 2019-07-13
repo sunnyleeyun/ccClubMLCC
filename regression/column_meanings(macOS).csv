@@ -1,0 +1,26 @@
+PLAYER_AGE,age
+GP,ゑ辽初计Game Played
+GS,祇初计game started
+MIN,ゑ辽羆だ牧计minutes
+FGM,щ膞秈瞴计field goal made
+FGA,щ膞计field goal attempts
+FG_PCT,щ膞㏑い瞯field goal percentage
+FG3M,だ秈瞴计3-pointer made
+FG3A,だщ膞计3-pointer attempt
+FG3_PCT,だ㏑い瞯3-pointer percentage
+FTM,籃瞴㏑い计free throw made
+FTA,籃瞴计free throw attempts
+FT_PCT,籃瞴㏑い瞯free throws percentage
+OREB,秈ю膞狾Offensive Rebounds
+DREB,ň膞狾Defensive Rebounds
+REB,膞狾rebound
+AST,юassist
+STL,й篒steal
+BLK,юblocks
+TOV,ア粇turnovers
+PF,デ砏personal Fouls
+PTS,羆眔だtotal_points
+AVG,キА
+st,材
+nd,材
+rd,材

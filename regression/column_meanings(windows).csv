@@ -1,0 +1,26 @@
+PLAYER_AGE,年紀age
+GP,比賽場數Game Played
+GS,先發場數game started
+MIN,比賽總分鐘數minutes
+FGM,投籃進球數field goal made
+FGA,投籃數field goal attempts
+FG_PCT,投籃命中率field goal percentage
+FG3M,三分進球數3-pointer made
+FG3A,三分投籃數3-pointer attempt
+FG3_PCT,三分命中率3-pointer percentage
+FTM,罰球命中數free throw made
+FTA,罰球數free throw attempts
+FT_PCT,罰球命中率free throws percentage
+OREB,進攻籃板Offensive Rebounds
+DREB,防守籃板Defensive Rebounds
+REB,籃板rebound
+AST,助攻assist
+STL,抄截steal
+BLK,阻攻blocks
+TOV,失誤turnovers
+PF,個人犯規personal Fouls
+PTS,總得分total_points
+AVG,平均值
+st,第一年
+nd,第二年
+rd,第三年
